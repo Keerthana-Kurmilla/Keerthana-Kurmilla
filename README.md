@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurmilla Keerthana</h1>
-<h3 align="center">AI/ML Developer focused on intelligent automation, Computer Vision, and modern Web Technologies.</h3>
+<h3 align="center">AI/ML Enthusiast exploring Computer Vision, Deep Learning, and modern Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthana-kurmilla&label=Profile%20views&color=0e75b6&style=flat" alt="keerthana-kurmilla" /> </p>
 
