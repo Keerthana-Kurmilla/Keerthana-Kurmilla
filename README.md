@@ -43,15 +43,15 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-kurmilla&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-kurmilla&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-kurmilla&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=keerthana-kurmilla&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-kurmilla&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-kurmilla&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 
