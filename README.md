@@ -2,11 +2,6 @@
 <h3 align="center">AI/ML Developer focused on intelligent automation, Computer Vision, and modern Web Technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthana-kurmilla&label=Profile%20views&color=0e75b6&style=flat" alt="keerthana-kurmilla" /> </p>
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=keerthana-kurmilla&theme=onedark" alt="keerthana-kurmilla" />
-</a>
-</p>
 
 - 🌱 Currently learning: **MERN Stack, AI/ML, and Deep Learning**
 
@@ -18,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kurmilla keerthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurmilla-keerthana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kurmilla-keerthana-73127b302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurmilla-keerthana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,10 +39,20 @@
 
 - 🏆 Winner at TechStorm 2025 Hackathon – SR University
 - 📜 Microsoft Certified: Azure AI Fundamentals (AI-900)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthana-kurmilla&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="keerthana-kurmilla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthana-kurmilla&show_icons=true&locale=en&theme=tokyonight" alt="keerthana-kurmilla" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-kurmilla&theme=tokyonight" alt="keerthana-kurmilla" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-kurmilla&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-kurmilla&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-kurmilla&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
 
 🚀 Passionate about building impactful AI-driven solutions and continuously learning new technologies.
